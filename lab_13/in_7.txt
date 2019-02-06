@@ -1,0 +1,4 @@
+Hyundai;South Korea;661300;5
+Mercedes-Benz;Germany;661300;2
+Renaul;France;661300;3
+Skoda;Czech Republic;661300;2

@@ -1,0 +1,15 @@
+Test#1:
+Input (a n): 5.6 2
+Expected result: "Error! Please, enter again: "
+
+Test#2:
+Input (a n): 7 -3
+Expected result: "Error! Please enter a positive power: " 
+
+Test#3:
+Input (a n): 2 3.55
+Expected result: "Error! Please, enter again: "
+
+Test#4: 
+Input (a n): 3 4
+Expected result: 81

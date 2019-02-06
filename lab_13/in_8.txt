@@ -1,0 +1,4 @@
+BMV;Germany;5561300;5
+Mercedes-Benz;Germany;2271300;2
+Volkswagen;Germany;1961900;3
+Audi;Germany;3061300;1

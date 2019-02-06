@@ -1,0 +1,2 @@
+Hyundai;South Korea;661300.00;5
+Mercedes-Benz;Germany;2580000.00;2

@@ -1,0 +1,3 @@
+Hyundai;South Korea;661300;5
+Skoda;Czech Republic;94160;2
+Mercedes-Benz;Germany;2580000;2

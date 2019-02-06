@@ -1,0 +1,11 @@
+test.c
+allocate.c
+allocate.h
+operations.c
+operations.h
+reverse.h
+defines.h
+io.c
+io.h
+reverse.c
+main.c

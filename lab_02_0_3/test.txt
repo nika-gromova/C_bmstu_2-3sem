@@ -1,0 +1,29 @@
+Test#1:
+Input x: 4
+Input eps: 0.00001
+Expected result:
+s(x) = 54.598148
+f(x) = 54.598148
+Absolute error is: 0.000000
+Nominal error is: 0.000000
+
+Test#2:
+Input x: fggd
+Expected result: Input error, try again: 
+New input x: 2.3
+Input eps: 0.001
+Expected result:
+s(x) = 9.973888
+f(x) = 9.974182
+Absolute error is: 0.000294
+Nominal error is: 0.000029
+
+Test#3:
+Input x: 1.5
+Input eps: 3
+Expected result: Eps out of possible range, input again: 
+New input eps: 0.0000001
+s(x) = 4.481689
+f(x) = 4.481689
+Absolute error is: 0.000000
+Nominal error is: 0.000000

@@ -1,0 +1,4 @@
+Hyundai;South Korea;761800;1
+Skoda;Czech Republic;841600;4
+Renaul;France;697200;4
+Toyota;Japan;900000;2

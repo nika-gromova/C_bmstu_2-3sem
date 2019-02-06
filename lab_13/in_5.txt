@@ -1,0 +1,4 @@
+Skoda;Czech Republic;94160;2
+Hyundai;South Korea;661300;5
+Renaul;France;886970;3
+Mercedes-Benz;Germany;2580000;2
